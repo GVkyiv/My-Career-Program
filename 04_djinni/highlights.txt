@@ -1,0 +1,15 @@
+Led migration of the core ERP (about 1,000 users; finance, banking, sales, procurement modules) from a legacy DOS platform to a proprietary web+SQL system, with a team of up to 20.
+
+Implemented EDI with partners and customers — cut document processing time by 70%.
+
+Redesigned order management — reduced data errors by 30% and order processing time by 50%.
+
+Built company-wide Power BI reporting — cut data analysis time by 50% and supported a 25% increase in the customer assortment portfolio.
+
+Initiated and shipped an internal AI meeting-summarization tool (Webex + LLM), adopted company-wide — saves 30–60 minutes of protocol writing per meeting, across 4–5 meetings a day.
+
+Contributed to a 5x revenue growth of the company over about 10 years through automation of core business processes.
+
+Built the IT portfolio process end to end: intake, prioritization with business owners, team composition, delivery accountability.
+
+Hired, assessed and mentored project managers — recruitment, performance assessment, and one-on-one coaching.

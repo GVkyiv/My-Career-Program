@@ -1,0 +1,25 @@
+Delivery and PMO leader with 24+ years in IT and enterprise ERP systems — 16 of them at ERC Distribution, an international distributor with 1,000+ employees and offices in 10 countries.
+
+WHAT I OWN
+The company's full IT project portfolio: up to 10 projects running concurrently, 100–150 delivered per year. I decide portfolio composition, prioritize with business stakeholders, build project teams, and stay accountable for delivery end to end.
+
+Team: 3 direct-report project managers, plus cross-functional teams of up to 30 specialists — developers, business analysts, QA. I hire, assess and mentor the project managers I work with.
+
+KEY DOMAINS
+ERP • Distribution and retail • B2B integration (EDI) • BI and analytics
+
+HOW I DELIVER
+Predictive, agile and hybrid approaches; Scrum and Kanban; in-house teams and vendor engagement models.
+
+I have worked both sides of the ERP table — as a vendor (Intellect-Service; Softline, Oracle E-Business Suite) and as the customer (ERC). That shapes how I scope and de-risk delivery from day one: I know where the estimates bend and where the integrations break.
+
+AI IN DELIVERY
+Hands-on, not in conversation. I initiated and shipped an internal AI meeting-summarization tool (Webex + LLM) that the company adopted in full. I use AI coding agents (Claude Code, Codex) in daily work.
+
+Currently pursuing an MSc in Computer Science, AI Product Management concentration — Woolf University, Malta (EQF7), 2026–2028.
+
+CERTIFICATIONS
+PSM I • PSPO I • Google Project Management • ITIL v4 Foundation
+
+TOOLS
+Jira • Confluence • MS Project • Power BI • SQL • Miro
