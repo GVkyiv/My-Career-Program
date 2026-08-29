@@ -236,12 +236,36 @@ application analyst.
 
 ## Материалы
 
-- `03_cv/current/CV_Ireland_2026.docx` — предыдущая версия под
-  позиционирование «ERP Implementation Delivery Lead». **Не соответствует
-  решению 20.08.2026**, требует пересборки под трек A. Не источник фактов
-  для новых материалов.
-- Нужны, ещё не собраны: CV под трек A, CV под трек B, текст анкеты
-  IrishJobs, тексты профилей на остальных площадках.
+- `03_cv/current/CV_Ireland_TrackA_ERP_BA.md` (+ `.docx`) и
+  `CV_Ireland_TrackB_AI.md` (+ `.docx`) — собраны 20.08.2026 под решение о
+  смене позиционирования. Актуальны, источник фактов для профилей на
+  job-сайтах.
+- 27.08.2026: трек A загружен на IrishJobs как основной CV (заменил
+  устаревший `CV_Volenbovskyi_Ireland_EN_2026.docx` от 9 августа, который
+  всё ещё нёс старое позиционирование «Deputy IT Director» и был причиной
+  нерелевантных алгоритмических рекомендаций). Профиль на IrishJobs
+  вручную приведён в соответствие: заголовок, целевые должности (убраны
+  Product Owner/PM Agile, добавлены ERP Business Analyst/Business Systems
+  Analyst/Senior Business Analyst/Business Analyst Financial), локации
+  (Dublin/Cork/Waterford), история занятости (7 записей вместо 4 дублей,
+  даты сведены с `00_profile/candidate.md`), сохранённый поиск «IT
+  Manager» заменён на «Techno-Functional Business Analyst».
+- 27.08.2026: jobs.ie (тот же движок StepStone, что и IrishJobs) —
+  профиль заполнен с нуля: CV трек A загружен по умолчанию (+ трек B
+  альтернативным), история занятости (7 записей, сведены с
+  `candidate.md`), образование (КНТЕУ; Woolf University MSc не добавлен —
+  форма jobs.ie не принимает незавершённое образование с будущим годом
+  выпуска), work eligibility = Yes, skills, целевые должности (тот же
+  набор, что на IrishJobs), локации Dublin/Cork/Waterford, релокация =
+  Yes, contract type Permanent+Contract, WFH — все варианты, статус
+  переключён на «Open to work».
+- 27.08.2026: Indeed — Preferences заполнены (целевые должности,
+  локации не трогались отдельно — driven by job titles/CV), country
+  аккаунта переключена с United Kingdom на Ireland (была на UK,
+  рекомендации шли по не тому рынку), visibility переключена на
+  «Employers can find you» (была скрыта), убрано ложное «available to
+  start immediately».
+- Ещё не сделано: тексты профилей на остальных площадках, если появятся.
 
 ## Язык и стиль
 

@@ -42,15 +42,15 @@ data analysis"**.
   пошук по базі формул з каліброваним порогом схожості, чесна
   демонстрація меж системи (UI показує збої інструментів, а не ховає).
   Working Streamlit-застосунок, окремий репозиторій:
-  `Cource Google Linkedine Udemy\Neoversity AI PM\Projects\StudyMate\`.
+  `AI Project\Study\StudyMate\`.
   Опис і архітектура:
-  `Cource Google Linkedine Udemy\Neoversity AI PM\Project Neoversity\capstone-studymate\README.md`.
+  `AI Project\Study\Project Neoversity\capstone-studymate\README.md`.
 - **Personal Finance Hub** — SaaS MVP для обліку особистих фінансів
   (кілька рахунків, валют, ОВДП, ETF, крипта в одному дашборді).
   Next.js веб-застосунок + UX/HCID-дизайн (Figma) + ринкове дослідження
   SaaS Personal Finance. Пряме поєднання фінансового домену з AI/product
   роботою — сильний доказ ніші №3. Папка:
-  `Cource Google Linkedine Udemy\Neoversity AI PM\Projects\Personal Finance Hub\`.
+  `AI Project\Study\Personal Finance Hub\`.
 
 Плюс офлайн-кейсы из `00_profile/candidate.md` (EDI -70%, Power BI -50%
 анализ/+25% портфель, AI-суммаризация Webex+LLM) — переупаковать под

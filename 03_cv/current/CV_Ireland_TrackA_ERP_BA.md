@@ -154,6 +154,8 @@ implementation · Kyiv · 2004 – 2008
 - Delivered ERP implementations for a 3,000-employee manufacturer (Kherson
   Combines), UHL-Mash (metal furniture) and the Kalynivka Budperlit building
   materials plant
+- Also covered fixed assets and payroll modules across IS-Pro implementations
+  in this period
 - Trained 100 end users on the new ERP system
 
 **Kyiv Furniture Plant** — Lead Accountant / Economist; implemented IS-Pro on

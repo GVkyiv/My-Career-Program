@@ -1,9 +1,26 @@
 # Djinni — профиль (английский)
 
-Ревизия 19.08.2026. Предыдущая версия опубликована 31.07.2026
+Ревизия 23.08.2026. Предыдущая версия — 19.08.2026, до неё — 31.07.2026
 (`https://djinni.co/q/1a1b009b63/`) — сломана: markdown-экранирование
 (`\~30`) протекло в текст, всё саммари одним абзацем, поля Highlights,
 Looking for и Domain experience не заполнены.
+
+Правка 23.08.2026 (1): пользователь указал, что широта ERP-доменов
+(финансы, продажи, закупки, основные средства, заработная плата и
+т.д.) не отражена — поле Domain experience на Джинні этого не вмещает
+(закрытый список, см. раздел ниже), значит компенсировать нужно
+текстом. Добавлен явный перечень внедрённых ERP-модулей в Досвід
+роботи и Highlights. Новые факты (основные средства, заработная
+плата) подтверждены пользователем за периодом Intellect-Service /
+ІС-Про (2004-2010) и внесены в `00_profile/candidate.md`.
+
+Правка 23.08.2026 (2), по замечанию пользователя на реальную
+опубликованную страницу (`https://djinni.co/q/1a1b009b63/`): из
+Досвід роботи убраны Certifications и MSc-строка — они дублировали
+отдельные поля (Сертифікації; освіта — стандартное поле Джинні, в
+этом файле не описано, но существует на платформе). Убран
+уточняющий довесок «(GAAP and management accounting)» после payroll
+accounting — оставлено только payroll accounting.
 
 **Важно при вставке:** поля Джинні — plain text. Не вставлять markdown
 (`**`, `-`, `~`). Тильду писать как обычный символ или заменять словом
@@ -30,29 +47,35 @@ Head of PMO / Delivery Director / Deputy IT Director / Delivery Manager / Portfo
 ## Поле: Досвід роботи (Work experience)
 
 ```
-Delivery and PMO leader with 24+ years in IT and enterprise ERP systems, 16 of them at ERC Distribution — an international distributor with 1,000+ employees and offices in 10 countries.
+Delivery and PMO leader with 24+ years in IT and enterprise ERP systems — 16 of them at ERC Distribution, an international distributor with 1,000+ employees and offices in 10 countries.
 
-Scale of ownership: the company's full IT project portfolio — up to 10 projects running concurrently, 100-150 delivered per year. 3 direct-report project managers plus cross-functional teams of up to 30 specialists (developers, business analysts, QA).
+WHAT I OWN
+The company's full IT project portfolio: up to 10 projects running concurrently, 100-150 delivered per year. I decide portfolio composition, prioritize with business stakeholders, build project teams, and stay accountable for delivery end to end.
 
-I decide portfolio composition, prioritize with business stakeholders, build project teams, and stay accountable for delivery end to end.
+Team: 3 direct-report project managers, plus cross-functional teams of up to 30 specialists — developers, business analysts, QA. I hire, assess and mentor the project managers I work with.
 
-Key domains: ERP, distribution and retail, B2B integration (EDI), BI and analytics.
+KEY DOMAINS
+ERP • Distribution and retail • B2B integration (EDI) • BI and analytics
 
-Delivery practice: predictive, agile and hybrid approaches; Scrum, Kanban; in-house teams and vendor engagement models. I have worked both sides of the ERP table — as a vendor (Intellect-Service; Softline, Oracle E-Business Suite) and as the customer (ERC) — which shapes how I scope and de-risk delivery from day one.
+Across two ERP implementations, as vendor and as customer, I covered the full transactional core: finance and banking, sales, procurement, cash management, order management, B2B, production, warehouse, fixed assets, and payroll accounting.
 
-AI in delivery, hands-on rather than in conversation: I initiated and shipped an internal AI meeting-summarization tool (Webex + LLM) that the company adopted in full.
+HOW I DELIVER
+Predictive, agile and hybrid approaches; Scrum and Kanban; in-house teams and vendor engagement models.
 
-Certifications: PSM I, PSPO I, Google Project Management, ITIL v4 Foundation.
-Tools: Jira, Confluence, MS Project, Power BI, SQL, Miro.
+I have worked both sides of the ERP table — as a vendor (Intellect-Service; Softline, Oracle E-Business Suite) and as the customer (ERC). That shapes how I scope and de-risk delivery from day one: I know where the estimates bend and where the integrations break.
 
-Currently pursuing an MSc in Computer Science (AI Product Management concentration), Woolf University, Malta (EQF7), 2026-2028.
+AI IN DELIVERY
+Hands-on, not in conversation. I initiated and shipped an internal AI meeting-summarization tool (Webex + LLM) that the company adopted in full. I use AI coding agents (Claude Code, Codex) in daily work.
 ```
 
-Что изменилось против версии 31.07: убрано экранирование, текст разбит
-на блоки, достижения с процентами вынесены отсюда в Highlights (там они
-работают как отдельные строки, а не тонут в абзаце), добавлены Key
-domains и Delivery practice — обе секции есть у конкурентов и читаются
-рекрутером за две секунды.
+Живой текст 23.08.2026 взят как основа (структура с капс-подзаголовками
+WHAT I OWN / KEY DOMAINS / HOW I DELIVER / AI IN DELIVERY —
+предпочтение пользователя, не переделывать без причины). В KEY DOMAINS
+добавлена строка с перечнем ERP-модулей (правка от того же дня, см.
+чейнджлог выше). Из живого текста убрана хвостовая строка про MSc —
+переносится в отдельное поле образования на платформе, не дублируется
+здесь. Tools-строки в живом тексте нет — не восстанавливать, инструменты
+частично закрыты через `Jira & Confluence` в Досвід навичок.
 
 ---
 
@@ -60,6 +83,8 @@ domains и Delivery practice — обе секции есть у конкуре�
 
 ```
 Led migration of the core ERP (about 1,000 users; finance, banking, sales, procurement) from a legacy DOS platform to a proprietary web+SQL system, with a team of up to 20.
+
+Implemented ERP modules across ten functional domains over my career, as both vendor and customer: finance and banking, sales, procurement, cash management, order management, B2B, production, warehouse, fixed assets, and payroll accounting.
 
 Implemented EDI with partners and customers — cut document processing time by 70%.
 
@@ -136,6 +161,13 @@ Distribution / Retail (16 лет — основной домен кандида�
 
 Охват: 2 домена против 5 у обоих конкурентов с максимальными
 просмотрами. Каждый домен — отдельный фильтр рекрутера.
+
+Компенсация 23.08.2026: закрытый список доменов Джинні не вмещает
+ERP-модули (финансы, продажи, закупки, основные средства, заработная
+плата и т.д.) как отдельные пункты — их некуда проставить. Вместо
+этого явный перечень из десяти функциональных доменов ERP добавлен
+текстом в Досвід роботи и Highlights (см. выше), где рекрутер это
+прочитает даже без фильтра.
 
 ---
 
